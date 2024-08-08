@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+    <script src="script.js"></script>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOOK MARK</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div class="navbar">
+        <h1>Book Mark</h1>
+    </div>
+
+    <div class="container">
+        <div class="book-container">
+            <h2>King Of Jungle</h2>
+            <h5>venni</h5>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Rem rerum sint, iusto, debitis eligendi blanditiis pariatur, dolores ratione repellat enim unde facere soluta voluptates laboriosam eum nobis. Commodi, amet est!</p>
+         <button onclick="deletebook(event)" class="book-container-button">delete</button>
+        </div>
+    </div>
+
+    <div class="overlay"></div>
+    <div class="popupbox">
+        <h2>Add Book</h2>
+        <form>
+            <input type="text" placeholder="Book Title" id="book-title-input">
+            <input type="text" placeholder="Book Author" id="book-author-input">
+            <textarea placeholder="Description" id="book-description-input"></textarea>
+            <button id="add-book">ADD</button>
+            <button id="cancel-popup">CANCEL</button>
+        </form>
+    </div>
+
+    <button class="add-btn" id="add-popupbtn">+</button>
+    <script src="script.js"></script>
+</body>
+</html>
+
