@@ -1,7 +1,7 @@
 <h1 >Hey there 👋 I'm Vennilavan Manoharan</h1>
 
 # 💫 About Me:
-I am a passionate Full Stack Web Developer and a recent MSc Computer Science graduate with hands-on industry and project experience in building responsive, scalable, and secure web applications.<br><br>I specialize in modern JavaScript frameworks, backend development with Expressjs,Python, and full-stack system design. I enjoy solving real-world problems, learning new technologies, and building clean, efficient solutions.<br><br>Currently, I am actively seeking full-time opportunities where I can contribute to impactful projects, grow as a developer, and add value to a forward-thinking team.<br>
+I am a passionate Full Stack Web Developer and a recent MSc Computer Science graduate with hands-on industry and project experience in building responsive, scalable, and secure web applications and have knowledge in Data Analyst , AIML.<br><br>I specialize in modern JavaScript frameworks, backend development with Expressjs,Python, and full-stack system design. I enjoy solving real-world problems, learning new technologies, and building clean, efficient solutions.<br><br>Currently, I am actively seeking full-time opportunities where I can contribute to impactful projects, grow as a developer, and add value to a forward-thinking team.<br>
 
 
 ## 🌐 Socials:
